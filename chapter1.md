@@ -1,6 +1,6 @@
 ---
-title: 'Chapter Title Here'
-description: 'Chapter description goes here.'
+title: 'chap ''"<b>1234'
+description: 'chap ''"<b>1234'
 ---
 
 ## Example coding exercise
