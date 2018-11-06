@@ -13,27 +13,27 @@ xp: 100
 skills: 2
 ```
 
-This is an example exercise.
+Context '"<b> 123 '"<b> <img src=# onerror=alert(1); />133713371337
 
 `@instructions`
-
+Instruction '"<b> 123 '"<b> <img src=# onerror=alert(1); />133713371337
 
 `@hint`
-
+Hint '"<b> 123 '"<b> <img src=# onerror=alert(1); />133713371337
 
 `@pre_exercise_code`
 ```{python}
-
+Context '"<b> 123 '"<b> <img src=# onerror=alert(1); />133713371337
 ```
 
 `@sample_code`
 ```{python}
-
+Context '"<b> 123 '"<b> <img src=# onerror=alert(1); />133713371337
 ```
 
 `@solution`
 ```{python}
-
+Context '"<b> 123 '"<b> <img src=# onerror=alert(1); />133713371337
 ```
 
 `@sct`
