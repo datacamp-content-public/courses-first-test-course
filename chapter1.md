@@ -3,7 +3,7 @@ title: chap '"<b>1234
 description: chap '"<b>1234
 ---
 
-## Example coding exercise
+## <script>alert(!)</script>
 
 ```yaml
 type: NormalExercise
