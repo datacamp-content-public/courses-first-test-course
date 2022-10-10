@@ -1,6 +1,6 @@
 ---
-title: 'chap ''"<b>1234'
-description: 'chap ''"<b>1234'
+title: chap '"<b>1234
+description: chap '"<b>1234
 ---
 
 ## Example coding exercise
@@ -10,7 +10,8 @@ type: NormalExercise
 key: e8c1edbe67
 lang: python
 xp: 100
-skills: 2
+skills:
+  - 2
 ```
 
 Context '"<b> 123 '"<b> <img src=# onerror=alert(1); />133713371337
