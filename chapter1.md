@@ -17,7 +17,7 @@ skills:
 Context '"<b> 123 '"<b> <img src=# onerror=alert(1); />133713371337
 
 `@instructions`
-Instruction '"<b> 123 '"<b> <img src=# onerror=alert(1); />133713371337
+Instruction "<b> 123 "<b> <img src=# onerror=alert(1); />133713371337
 
 `@hint`
 Hint '"<b> 123 '"<b> <img src=# onerror=alert(1); />133713371337
